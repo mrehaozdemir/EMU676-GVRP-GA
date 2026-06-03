@@ -53,4 +53,4 @@ Muhammed Reha Özdemir
 
 Hacettepe University
 
-EMU676 – Metaheuristics
+EMU676 – Optimization Models and Algorithms in Transportation and Distribution
