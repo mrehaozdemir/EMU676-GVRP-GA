@@ -49,8 +49,8 @@ The program generates:
 
 ## Author
 
-Reha XXXXX
+Muhammed Reha Özdemir
 
-Eastern Mediterranean University
+Hacettepe University
 
 EMU676 – Metaheuristics
